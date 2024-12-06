@@ -1,0 +1,21 @@
+.first-font{
+    font-family: "Pacifico", cursive;
+}
+.second-font{
+    font-family: "Righteous", sans-serif;
+}
+
+.third-font{
+    font-family: "PT Sans Caption", sans-serif;
+}
+.fs-50{
+    font-size: 50px;
+}
+h1{
+    border-bottom: 2px dotted ;
+}
+
+.sec{
+    
+    border-bottom: 2px dotted ;
+}
